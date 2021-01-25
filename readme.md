@@ -7,7 +7,7 @@
 ### I recommend using the first option that is easier
 
 ### 1. Installation on repl.it
-#### Go to [interestcalc.unurled.repl.run](https://repl.it/@unurled/interestcalc)
+#### Go to [interestcalc.unurled.repl.run](https://repl.it/@unurled/interestcalc) and hit the RUN button
 #### follow the instruction
 
 ### 2. Intsallation locally
